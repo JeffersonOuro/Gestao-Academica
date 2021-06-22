@@ -1,0 +1,5 @@
+1:Gustavo:gu@gmail:POS:Programação java:Guanabara
+2:Guilherme boulos:gui@gmail:GRAD:100
+3:Arthur do VAl:val@gmail:POS:politicas:Mauricio Braga
+4:marcos Braga:ma@gmail:GRAD:300
+5:Pedro Arantes:arantes@gmail:GRAD:521
